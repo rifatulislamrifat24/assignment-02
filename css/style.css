@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* Common Section Start Here */
+.border-radius-control{
+    border-radius: 25px;
+}
+/* Common Section End Here */
+
+/* Navigation Section Start Here */
+.nav-bg-color-control{
+    background-color: #ecdbbbd2;
+}
+/* Navigation Section End Here */
+
+/* First Section Start Here */
+.backgraound-color-control{
+    background-color: rgb(253, 245, 224);
+}
+.font-control-01{
+    font-size: 50px;
+    font-weight: 700;
+}
+.font-margin-control{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+/* First Section End Here */
+
+/* 2nd Section Start Here */
+.image-background-control{
+    background-color: rgb(212, 212, 212);
+    border-radius: 5%;
+    height: 60%;
+}
+.image-control{
+    width: 80%;
+    height: 95%;
+    padding: 1%;
+    margin-left: 13%;
+}
+/* 2nd Section End Here */
+
+/* 4th Section Start Here */
+.icon-control{
+    margin: 4%;
+    padding: 4%;
+    height: 80%;
+    width: 60%;
+}
+/* 4th Section End Here */
+
+/* Bonus/Subscribe Section Start Here */
+.subscribe-background-image{
+    background-image: url("/images/subscribe-image/subs-img.jpg");
+    background-position: 70%;
+}
+/* Bonus/Subscribe Section End Here */
